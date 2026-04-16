@@ -23,3 +23,6 @@ Final Decision Score
 - Let's not get into too advanced structure, let's start calculations from basic.
 - The above estimation score model is for scheming the structure of the whole market, for in-depth analysis, we need screening currently.
 - We will do screening, scheming, screening, scheming and so on, so as to ace the calculation but shouldn't confuse/stuck in the process, maybe it could turn circular dependency of our mind on and we get stuck into deadlock, so we need to be clear in our mind first.
+
+Goal-1:
+   First goal, to first understand the business, the net worth, assets, liabilities, debt, cash flow, etc. the base of everything, we should not suddenly jump over performance, technicals immediately, firstly first parameter first.
