@@ -1,11 +1,35 @@
 {
     "assets": {
-        "current_assets": 1498,
-        "non_current_assets": 1223
+        "current_assets": {
+            "cash_and_short_term": 564,
+            "total_recievables": 205,
+            "total_inventory": 42,
+            "other_assets": 411,
+            "total_current_assets": 1223
+        },
+        "non_current_assets": {
+            "net_loans": 0.19,
+            "net_property": 70,
+            "intangibles": 0.16,
+            "long_term": 0.00,
+            "other_long_term": 185,
+            "other_assets": 18,
+            "total_non_current_assets": 274
+        }
     },
     "liabilities": {
-        "current_liabilities": 398,
-        "non_current_liabilities": 106
+        "current_liabilities": {
+            "accounts_payable": 167,
+            "total_deposits": 0.00,
+            "other_liabilities": 231,
+            "total_current_liabilities": 398
+        },
+        "non_current_liabilities": {
+            "long_term_debt": 98,
+            "deferred_income_tax": 0.00,
+            "other_liabilities": 8,
+            "total_non_current_liabilities": 106
+        }
     },
     "equity": {
         "common_stock": 175,
