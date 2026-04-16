@@ -1,0 +1,17 @@
+{
+    "daily": {
+        "total_traded_volume": 167211293,
+        "delivery_volume": 11160015,
+        "delivery_percentage": 6.67
+    },
+    "weekly": {
+        "total_traded_volume": 222189133,
+        "delivery_volume": 20237514,
+        "delivery_percentage": 9.11
+    },
+    "monthly": {
+        "total_traded_volume": 310033130,
+        "delivery_volume": 43751889,
+        "delivery_percentage": 14.11
+    }
+}

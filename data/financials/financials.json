@@ -1,0 +1,22 @@
+{
+    "2021": {
+        "revenue": 126,
+        "profit": 9,
+        "net_worth": 9
+    },
+    "2023": {
+        "revenue": 342,
+        "profit": 55,
+        "net_worth": 127
+    },
+    "2024": {
+        "revenue": 738,
+        "profit": 106,
+        "net_worth": 291
+    },
+    "2025": {
+        "revenue": 1085,
+        "profit": 177,
+        "net_worth": 994
+    }
+}
