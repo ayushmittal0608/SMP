@@ -40,3 +40,5 @@ The maintenance of EBITDA margin is where baniya mindset comes into play where w
 
 $$ EBITDA = Gross Margin − Overheads $$
 $$ Gross Margin = Function of Product Quality + Pricing Power $$
+
+**From the above info, we can infer that the company EBITDA of 30.4% depicts company as exceptionally strong.**
