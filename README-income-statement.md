@@ -41,4 +41,23 @@ The maintenance of EBITDA margin is where baniya mindset comes into play where w
 $$ EBITDA = Gross Margin − Overheads $$
 $$ Gross Margin = Function of Product Quality + Pricing Power $$
 
-**From the above info, we can infer that the company EBITDA of 30.4% depicts company as exceptionally strong.**
+**From the above info, we can infer that the company EBITDA of 30.4% depicts company are exceptionally strong.**
+
+2. Net Profit Margin: It measures how much net profit comes out from the total revenue.
+
+$$ Net Profit Margin = (Net Profit / Revenue) * 100 = (42 / 258) * 100 = 16.15% $$
+
+Now, we need to review the industry limit to view whether net profit margin is as per industry standards or not. Let's view general and depreciation, we will notice that they are around 9 and 8, we would notice that it isn't a manufacturing company, now we have to set its standards to be high, so since it is not a manufacturing company, it is service or IT based company, so net profit margin as per industry standard limit is taken to 15% and 16.15% is fine. The more the infra and hardware based assets, the more will be the expenses but IT companies are safe player in it. Much better explanation to that is higher fixed cost for infra and hardware management.
+
+**So, based on the above info, we can infer that company's net profit margins of 16.15% is higher, not that strong if observed through the angle of IT company but the irony is that above company is not IT/service company and it's competitors are working way worse than what they are actually doing.**
+
+3. EPS (Earning Per Share): It is the measure of company's profitability. It tells us how much earning the company has done for us and this whole earning is being used by company for buying assets for them through which it grows more. Positive EPS is fine to predict company's profitability. However, as per my point of view, slow growth and success is the better option because once we invest in high EPS companies, we face a high volatility and it becomes a high risk game in market. So, potential companies are the best to invest in at the early stage of investments.
+
+$$ Earning per share(EPS) = (net profit - total dividends) / number of shares $$
+
+Here,
+$$ number of shares = (net profit - total dividends) / EPS = (42 - 0) / 2.30 = 18.6cr $$
+
+4. Total Dividends: It is the measure of how much EPS the company is not using for its company growth like if there is a dividend of 1.00, then only 1.30 part is being utilised by company for buying assets or investment as a part of company's bank account.
+
+The company we are discussing about is having a dividend of 0.00, it means it is utilising all of our money for buying assets and for investment purposes. So, I think it is decent that whole EPS is being utilised for company's growth and once company grows, investor's money also increases and they would eventually make great profits.
